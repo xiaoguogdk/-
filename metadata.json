@@ -1,0 +1,5 @@
+{
+  "name": "NeonMomentum: AI Physics Lab",
+  "description": "A high-school level interactive physics simulator for momentum and collision experiments, enhanced with real-time AI analysis using Gemini.",
+  "requestFramePermissions": []
+}
